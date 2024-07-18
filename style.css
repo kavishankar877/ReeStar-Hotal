@@ -1,0 +1,59 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+.header{
+    background-color: black;
+    color: white;
+    padding: 30px;
+         
+  
+}
+ li{
+    color: gray;
+
+}
+li:hover{
+    cursor: pointer;
+    color: white;
+} 
+
+ul,li{
+    display: inline;
+
+    
+}
+.product{
+  
+}
+.box{
+      border-width: 3px; 
+   border-color: black;
+   border-style: solid;
+   display: inline-block;
+   width: 250px;
+   text-align: center;
+}
+h3{
+    background-color: black;
+    color: white;
+    display: inline;
+    cursor: pointer;
+
+}
+
+.product{
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+.contect{
+    margin-top: 10px;
+    background-color: black; 
+  text-align: center; 
+    color: white;
+    padding: 15px;
+}
+
